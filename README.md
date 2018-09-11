@@ -1,6 +1,6 @@
 # EasyBenchmark
 
-I've made this project because I want to be able, to quickly and easy benchmark what's faster solution, I'm bored of using raw std::chrono, so this "lib" does it much easier
+I've made this project because I wanted to be able, to quickly and easy benchmark what's faster solution, I'm bored of using raw std::chrono, so this "lib" does it faster.
 
 
 ## Example
